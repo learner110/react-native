@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "rate-repository-app",
+    "slug": "rate-repository-app",
+    "owner": "vocow82986",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.vocow82986.raterepositoryapp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "aa28bff1-4a7b-4f44-8cf0-a5bc00cc5b53"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/aa28bff1-4a7b-4f44-8cf0-a5bc00cc5b53"
+    }
+  }
+}
